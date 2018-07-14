@@ -1,0 +1,2 @@
+webpackJsonp([0xb36aea8cf27a],{307:function(e,t,u){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(1),n=a(l),f=u(21),r=u(65),c=a(r);t.default=function(){return n.default.createElement(c.default,null,n.default.createElement(f.PageTitle,{title:"公司简介"}))},e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-about-worth-js-8ee4d76031a5a50f563e.js.map

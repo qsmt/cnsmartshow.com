@@ -1,0 +1,2 @@
+webpackJsonp([0x9ff3667d324],{304:function(e,t,u){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=u(1),a=l(n),f=u(21),d=u(65),r=l(d);t.default=function(){return a.default.createElement(r.default,null,a.default.createElement(f.PageTitle,{title:"公司简介"}))},e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-about-index-js-8ee4d76031a5a50f563e.js.map

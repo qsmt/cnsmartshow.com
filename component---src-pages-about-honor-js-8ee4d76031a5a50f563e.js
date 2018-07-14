@@ -1,0 +1,2 @@
+webpackJsonp([0xc7afcced76be],{303:function(e,t,u){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var a=u(1),n=l(a),c=u(21),f=u(65),d=l(f);t.default=function(){return n.default.createElement(d.default,null,n.default.createElement(c.PageTitle,{title:"公司简介"}))},e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-about-honor-js-8ee4d76031a5a50f563e.js.map

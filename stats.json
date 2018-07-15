@@ -5,16 +5,16 @@
       "component---src-pages-about-index-js-8ee4d76031a5a50f563e.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-9ec9a415d7c7d776d557.js",
-      "component---src-pages-index-js-9ec9a415d7c7d776d557.js.map"
+      "component---src-pages-index-js-97396168c6fe9f46b3f0.js",
+      "component---src-pages-index-js-97396168c6fe9f46b3f0.js.map"
     ],
     "path---": [
       "path----baef545a3492a7c61350.js",
       "path----baef545a3492a7c61350.js.map"
     ],
     "component---src-pages-about-scopes-js": [
-      "component---src-pages-about-scopes-js-8ee4d76031a5a50f563e.js",
-      "component---src-pages-about-scopes-js-8ee4d76031a5a50f563e.js.map"
+      "component---src-pages-about-scopes-js-ee46078893ade40946ed.js",
+      "component---src-pages-about-scopes-js-ee46078893ade40946ed.js.map"
     ],
     "path---about-scopes": [
       "path---about-scopes-a0e39f21c11f6a62c5ab.js",
@@ -25,16 +25,12 @@
       "path---about-intro-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-b6327149df1ebc65a7ed.js",
-      "component---src-layouts-index-js-b6327149df1ebc65a7ed.js.map"
+      "component---src-layouts-index-js-79ada746524fd60643c9.js",
+      "component---src-layouts-index-js-79ada746524fd60643c9.js.map"
     ],
     "component---src-pages-about-intro-js": [
       "component---src-pages-about-intro-js-8ee4d76031a5a50f563e.js",
       "component---src-pages-about-intro-js-8ee4d76031a5a50f563e.js.map"
-    ],
-    "path---page-2": [
-      "path---page-2-a0e39f21c11f6a62c5ab.js",
-      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -45,9 +41,9 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-059af23d78d7d5f1b456.js",
+      "commons-50243c26c65e62a61124.js",
       "build-js-styles.css",
-      "commons-059af23d78d7d5f1b456.js.map",
+      "commons-50243c26c65e62a61124.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -55,25 +51,21 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-about-worth-js": [
-      "component---src-pages-about-worth-js-8ee4d76031a5a50f563e.js",
-      "component---src-pages-about-worth-js-8ee4d76031a5a50f563e.js.map"
+      "component---src-pages-about-worth-js-cfc422d3d69537d8d029.js",
+      "component---src-pages-about-worth-js-cfc422d3d69537d8d029.js.map"
     ],
     "path---about-honor": [
       "path---about-honor-a0e39f21c11f6a62c5ab.js",
       "path---about-honor-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "component---src-pages-page-2-js": [
-      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
-      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
-    ],
     "component---src-pages-about-honor-js": [
-      "component---src-pages-about-honor-js-8ee4d76031a5a50f563e.js",
-      "component---src-pages-about-honor-js-8ee4d76031a5a50f563e.js.map"
+      "component---src-pages-about-honor-js-b18d40f92e2594df82ba.js",
+      "component---src-pages-about-honor-js-b18d40f92e2594df82ba.js.map"
     ],
     "app": [
-      "app-f47ed589c5b8bc5b5694.js",
+      "app-d3a2b09b34953d6147bb.js",
       "build-js-styles.css",
-      "app-f47ed589c5b8bc5b5694.js.map",
+      "app-d3a2b09b34953d6147bb.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [

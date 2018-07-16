@@ -1,2 +1,2 @@
-webpackJsonp([0xb36aea8cf27a],{307:function(e,t,u){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(1),n=a(l),f=u(21),r=u(64),c=a(r);t.default=function(){return n.default.createElement(c.default,null,n.default.createElement(f.PageTitle,{title:"优势价值"}))},e.exports=t.default}});
+webpackJsonp([0xb36aea8cf27a],{308:function(e,t,u){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(1),n=a(l),f=u(19),r=u(64),c=a(r);t.default=function(){return n.default.createElement(c.default,null,n.default.createElement(f.PageTitle,{title:"优势价值"}))},e.exports=t.default}});
 //# sourceMappingURL=component---src-pages-about-worth-js-cfc422d3d69537d8d029.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0x758f6ece4f51],{305:function(e,t,u){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=u(1),a=l(n),f=u(21),r=u(64),c=l(r);t.default=function(){return a.default.createElement(c.default,null,a.default.createElement(f.PageTitle,{title:"公司简介"}))},e.exports=t.default}});
+webpackJsonp([0x758f6ece4f51],{306:function(e,t,u){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=u(1),a=l(n),f=u(19),r=u(64),c=l(r);t.default=function(){return a.default.createElement(c.default,null,a.default.createElement(f.PageTitle,{title:"公司简介"}))},e.exports=t.default}});
 //# sourceMappingURL=component---src-pages-about-intro-js-8ee4d76031a5a50f563e.js.map

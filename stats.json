@@ -8,9 +8,21 @@
       "component---src-pages-career-index-js-dfdca7452262d2b3a570.js",
       "component---src-pages-career-index-js-dfdca7452262d2b3a570.js.map"
     ],
+    "path---solutions-福建科技馆": [
+      "path---solutions-福建科技馆-d9aa65bfd74e9722279f.js",
+      "path---solutions-福建科技馆-d9aa65bfd74e9722279f.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-97396168c6fe9f46b3f0.js",
       "component---src-pages-index-js-97396168c6fe9f46b3f0.js.map"
+    ],
+    "path---solutions-烟台青少年宫": [
+      "path---solutions-烟台青少年宫-d7c5775a9b3780be9451.js",
+      "path---solutions-烟台青少年宫-d7c5775a9b3780be9451.js.map"
+    ],
+    "component---src-templates-solution-detail-js": [
+      "component---src-templates-solution-detail-js-dec55ab04501f4259e1b.js",
+      "component---src-templates-solution-detail-js-dec55ab04501f4259e1b.js.map"
     ],
     "path---": [
       "path----baef545a3492a7c61350.js",
@@ -21,24 +33,28 @@
       "component---src-pages-about-scopes-js-ee46078893ade40946ed.js.map"
     ],
     "path---solutions": [
-      "path---solutions-5672a218a2195acc0c1f.js",
-      "path---solutions-5672a218a2195acc0c1f.js.map"
+      "path---solutions-467b87d94e02354ce3bb.js",
+      "path---solutions-467b87d94e02354ce3bb.js.map"
     ],
     "path---about-scopes": [
       "path---about-scopes-a0e39f21c11f6a62c5ab.js",
       "path---about-scopes-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "component---src-pages-solutions-index-1-js": [
+      "component---src-pages-solutions-index-1-js-6a0d7794d705e7225cfe.js",
+      "component---src-pages-solutions-index-1-js-6a0d7794d705e7225cfe.js.map"
+    ],
     "path---career": [
       "path---career-a0e39f21c11f6a62c5ab.js",
       "path---career-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---solutions-南京地震馆": [
+      "path---solutions-南京地震馆-9d966da1a639adfb5b61.js",
+      "path---solutions-南京地震馆-9d966da1a639adfb5b61.js.map"
+    ],
     "path---about-intro": [
       "path---about-intro-a0e39f21c11f6a62c5ab.js",
       "path---about-intro-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-8f892849633af9e7202c.js",
-      "component---src-templates-blog-post-js-8f892849633af9e7202c.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-f181741c6ee1670d64ee.js",
@@ -48,9 +64,9 @@
       "component---src-pages-about-intro-js-8ee4d76031a5a50f563e.js",
       "component---src-pages-about-intro-js-8ee4d76031a5a50f563e.js.map"
     ],
-    "component---src-pages-solutions-index-js": [
-      "component---src-pages-solutions-index-js-6a0d7794d705e7225cfe.js",
-      "component---src-pages-solutions-index-js-6a0d7794d705e7225cfe.js.map"
+    "component---src-templates-solution-index-js": [
+      "component---src-templates-solution-index-js-086a6a0c99a38fdf4d88.js",
+      "component---src-templates-solution-index-js-086a6a0c99a38fdf4d88.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -65,14 +81,18 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-9e9493840d3f1360e469.js",
+      "commons-14a7c1728cb1087aa793.js",
       "build-js-styles.css",
-      "commons-9e9493840d3f1360e469.js.map",
+      "commons-14a7c1728cb1087aa793.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---solutions-index-1": [
+      "path---solutions-index-1-d6b8ea598c60b6ce1bd1.js",
+      "path---solutions-index-1-d6b8ea598c60b6ce1bd1.js.map"
     ],
     "path---portfolio": [
       "path---portfolio-a0e39f21c11f6a62c5ab.js",
@@ -99,9 +119,9 @@
       "component---src-pages-about-honor-js-b18d40f92e2594df82ba.js.map"
     ],
     "app": [
-      "app-8594dab3d2ec558831c8.js",
+      "app-f8576a39d9f6d1698d08.js",
       "build-js-styles.css",
-      "app-8594dab3d2ec558831c8.js.map",
+      "app-f8576a39d9f6d1698d08.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -111,10 +131,6 @@
     "path---about-worth": [
       "path---about-worth-a0e39f21c11f6a62c5ab.js",
       "path---about-worth-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---solutions-1": [
-      "path---solutions-1-26596918adca59ba4626.js",
-      "path---solutions-1-26596918adca59ba4626.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",

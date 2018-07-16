@@ -1,0 +1,2 @@
+webpackJsonp([44678134410243],{500:function(a,t){a.exports={data:{markdownRemark:{html:'<p>Pandas are really sweet.</p>\n<p>Here\'s a video of a panda eating sweets.</p>\n<p><img src="/logo.png" alt="logo"></p>',frontmatter:{title:"烟台青少年宫"}}},pathContext:{slug:"/solutions/烟台青少年宫/"}}}});
+//# sourceMappingURL=path---solutions-烟台青少年宫-d7c5775a9b3780be9451.js.map

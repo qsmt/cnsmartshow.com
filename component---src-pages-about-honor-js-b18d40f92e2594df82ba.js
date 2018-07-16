@@ -1,2 +1,2 @@
-webpackJsonp([0xc7afcced76be],{304:function(e,t,u){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var a=u(1),n=l(a),c=u(19),f=u(64),d=l(f);t.default=function(){return n.default.createElement(d.default,null,n.default.createElement(c.PageTitle,{title:"资质荣誉"}))},e.exports=t.default}});
+webpackJsonp([0xc7afcced76be],{304:function(e,t,u){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var a=u(1),n=l(a),c=u(17),f=u(64),d=l(f);t.default=function(){return n.default.createElement(d.default,null,n.default.createElement(c.PageTitle,{title:"资质荣誉"}))},e.exports=t.default}});
 //# sourceMappingURL=component---src-pages-about-honor-js-b18d40f92e2594df82ba.js.map

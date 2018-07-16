@@ -1,0 +1,2 @@
+webpackJsonp([21538151515184],{501:function(a,t){a.exports={data:{markdownRemark:{html:'<p>Pandas are really sweet.</p>\n<p>Here\'s a video of a panda eating sweets.</p>\n<p><img src="/logo.png" alt="logo"></p>',frontmatter:{title:"福建科技馆"}}},pathContext:{slug:"/solutions/福建科技馆/"}}}});
+//# sourceMappingURL=path---solutions-福建科技馆-d9aa65bfd74e9722279f.js.map

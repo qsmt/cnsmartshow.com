@@ -1,0 +1,35 @@
+import React, {PureComponent} from 'react';
+import {Carousel} from 'react-bootstrap';
+
+import image0 from './carousel1.jpg';
+import image1 from './carousel2.jpg';
+import image2 from './carousel3.jpg';
+import image3 from './carousel4.jpg';
+import image4 from './carousel5.jpg';
+import image5 from './carousel6.jpg';
+const images = [
+	image0,image1,image2,image3,image4,image5
+];
+
+
+class IndexCarousel extends PureComponent {
+
+	render() {
+		const items = images.map((item,index) =>{
+			return <Carousel.Item key={index}>
+				<img src={images[index]} alt={''} style={{width: '100%', minHeight: 200,}}/>
+				{/*<Carousel.Caption>*/}
+				{/*<h3>First slide label</h3>*/}
+				{/*<p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>*/}
+				{/*</Carousel.Caption>*/}
+			</Carousel.Item>
+		});
+		return (
+			<Carousel>
+				{items}
+			</Carousel>
+		)
+	}
+}
+
+export default IndexCarousel;

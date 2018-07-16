@@ -1,0 +1,106 @@
+/*@import '~bootstrap/dist/css/bootstrap.css';*/
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.loading-container {
+    position: relative;
+    min-height: 500px;
+}
+
+.loading {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, .55);
+    /*background-image: url(./images/loader.svg);*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 64px;
+    z-index: 10001
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.footer {
+    position: relative;
+    /*background-image: url("./images/footerbg.png");*/
+    background-repeat: repeat;
+    padding: 40px 0 20px 0;
+    text-align: center;
+    color: #fff;;
+}
+
+.anli-item .title {
+    position: absolute;
+    color: #fff;
+    margin: 5px;
+    padding: 20px;
+    background: rgba(0, 0, 0, .55);
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+.anli-item img {
+    width: 100%;
+}
+
+.anli-item {
+    padding: 5px;
+}
+
+.fangan-list li {
+    list-style: none;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.btn-default {
+    border-width: 2px;
+}
+
+#ewm {
+    position: absolute;
+    right: 10px;
+    bottom: 0;
+    top: 0;
+    height: 100%;
+}
+
+.css-class-add,
+.css-class-remove {
+    transition: all cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.5s;
+}
+
+.img-fullwidth {
+    width: 100%;
+}
+
+
+.navbar .container .navbar-brand {
+    padding: 0 15px;
+    color: #0f0;
+}
+.navbar .container .navbar-brand img {
+    height: 100%;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+
+ul {
+    list-style-image: url('./assets/sqblue.png');
+}

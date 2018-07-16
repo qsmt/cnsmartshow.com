@@ -1,0 +1,15 @@
+.portfolio-item{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.portfolio-item .title {
+    position: absolute;
+    left: 15px;
+    right: 15px;
+    padding: 15px 30px;
+    color: #fff;
+    /*background-color: rgba(1,1,1,.2);*/
+}
+.portfolio-item .img>img {
+    width: 100%;
+}

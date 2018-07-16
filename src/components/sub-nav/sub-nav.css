@@ -3,10 +3,9 @@
 
 }
 
-.qsmt-sub-nav li {
+.qsmt-sub-nav.nav-pills>li {
     padding: 0;
     float: none;
-
 }
 
 .qsmt-sub-nav li a {
@@ -19,9 +18,9 @@
         width: 100%;
     }
 
-    .qsmt-sub-nav li {
-        display: table-cell;
-        width: 1%;
+    .qsmt-sub-nav.nav-pills>li {
+        display: table-cell !important;
+        width: 1% !important;
 
     }
 
